@@ -5,7 +5,7 @@
 <?php echo "รหัสนิสิต-59310151"; ?><br>
 <?php echo "ชื่อ-สกุล นาย ศักดิ์สิทธิ์ อดิษะ"; ?><br>
 <iframe width="500" height="500"
-src="https://youtu.be/RXRm11Tyg84?autoplay=1">
+src="https://youtu.be/RXRm11Tyg84[/clip]">
 </iframe>
 </BODY>
 </HTML>
